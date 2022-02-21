@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ninopint01
+- 👀 I’m interested in Front-End Web Dev
+- 🌱 I’m currently learning HTML, CSS, JavaScript
